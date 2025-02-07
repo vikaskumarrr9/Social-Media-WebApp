@@ -1,7 +1,3 @@
-Sure! Here’s a basic `README.md` template for your social media web app built with the MERN stack:
-
----
-
 # Social Media Web App (MERN Stack)
 
 A simple social media web application built using the MERN stack (MongoDB, Express.js, React, Node.js) that allows users to create accounts, post content, like and comment on posts, and connect with others.
